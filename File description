@@ -1,0 +1,4 @@
+· data/marketing_campaigns.csv: Historical campaign data
+· notebooks/marketing_roi_analysis.ipynb: Complete analysis notebook
+· scripts/roi_calculator.py: Automated ROI calculation
+· reports/dashboard.xlsx: Excel dashboard with PivotTables
